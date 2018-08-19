@@ -228,4 +228,3 @@ async def on_message(message):
             await akeno.send_message(target_user, faggot)
             await asyncio.sleep(0.9)
 
-client.run('MTU1NDY5MzMwNTcyNzcxMzI4.DlXaaA.isCcLPJeyZNahgY40X8iqkKjenI', bot=False)
